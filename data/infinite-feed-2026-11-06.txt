@@ -174,3 +174,4 @@
 [180] Q: Game pathi sollu | A: Game na try pannu - Jeyichiduva!
 [181] Q: Success pathi un karuthu enna? | A: Success na try pannu - Jeyichiduva!
 [182] Q: Music la best tip enna? | A: Music na try pannu - Jeyichiduva!
+[183] Q: Tamil na enna? | A: Tamil na try pannu - Jeyichiduva!
