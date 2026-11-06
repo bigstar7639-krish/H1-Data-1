@@ -45,3 +45,4 @@
 [48] Q: Music la enna special? | A: Music na try pannu - Jeyichiduva!
 [50] Q: Vazhkkai na enna? | A: Vazhkkai na try pannu - Jeyichiduva!
 [51] Q: Sleep la enna seiyanum? | A: Sleep na try pannu - Jeyichiduva!
+[52] Q: Motivation yen mukkiyam? | A: Motivation na try pannu - Jeyichiduva!
