@@ -51,3 +51,4 @@
 [55] Q: College na enna artham? | A: College na try pannu - Jeyichiduva!
 [56] Q: Study yen mukkiyam? | A: Study na try pannu - Jeyichiduva!
 [57] Q: Bike na enna? | A: Bike na try pannu - Jeyichiduva!
+[58] Q: Kanavu la enna special? | A: Kanavu na try pannu - Jeyichiduva!
