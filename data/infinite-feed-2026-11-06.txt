@@ -270,3 +270,4 @@
 [284] Q: Anbu la eppadi jeyikkarathu? | A: Anbu na try pannu - Jeyichiduva!
 [285] Q: Lonely la mistake enna? | A: Lonely na try pannu - Jeyichiduva!
 [286] Q: Padippu pathi sollu | A: Padippu na try pannu - Jeyichiduva!
+[287] Q: Festival yen mukkiyam? | A: Festival na try pannu - Jeyichiduva!
