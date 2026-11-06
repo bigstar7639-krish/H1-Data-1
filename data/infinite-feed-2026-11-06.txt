@@ -14,3 +14,4 @@
 [15] Q: Tech pathi un karuthu enna? | A: Tech na try pannu - Jeyichiduva!
 [16] Q: Lonely pathi un karuthu enna? | A: Lonely na try pannu - Jeyichiduva!
 [18] Q: Confidence la enna seiyanum? | A: Confidence na try pannu - Jeyichiduva!
+[19] Q: Science pathi un karuthu enna? | A: Science na try pannu - Jeyichiduva!
