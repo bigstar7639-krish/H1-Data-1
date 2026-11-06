@@ -223,3 +223,4 @@
 [233] Q: Friendship na enna? | A: Friendship na try pannu - Jeyichiduva!
 [234] Q: School na enna? | A: School na try pannu - Jeyichiduva!
 [235] Q: Confidence pathi sollu | A: Confidence na try pannu - Jeyichiduva!
+[236] Q: Lonely pathi sollu | A: Lonely na try pannu - Jeyichiduva!
