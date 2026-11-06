@@ -31,3 +31,4 @@
 [39] Study - Auto Cycle
 [40] Space - Auto Cycle
 [41] School - Auto Cycle
+[42] Appa - Auto Cycle
