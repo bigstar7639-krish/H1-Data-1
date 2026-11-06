@@ -310,3 +310,4 @@
 [325] Q: Family pathi un karuthu enna? | A: Family na try pannu - Jeyichiduva!
 [326] Q: Baby la eppadi jeyikkarathu? | A: Baby na try pannu - Jeyichiduva!
 [327] Q: Tamil la enna seiyanum? | A: Tamil na try pannu - Jeyichiduva!
+[328] Q: Thiramai na enna artham? | A: Thiramai na try pannu - Jeyichiduva!
