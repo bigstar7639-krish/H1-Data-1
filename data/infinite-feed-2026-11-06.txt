@@ -67,3 +67,4 @@
 [72] Q: College na enna? | A: College na try pannu - Jeyichiduva!
 [73] Q: Vazhkkai pathi un karuthu enna? | A: Vazhkkai na try pannu - Jeyichiduva!
 [74] Q: College la mistake enna? | A: College na try pannu - Jeyichiduva!
+[75] Q: Travel na enna? | A: Travel na try pannu - Jeyichiduva!
