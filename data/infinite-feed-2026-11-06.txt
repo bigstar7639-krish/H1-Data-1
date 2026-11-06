@@ -294,3 +294,4 @@
 [308] Q: Anger la enna seiyanum? | A: Anger na try pannu - Jeyichiduva!
 [309] Q: Food na enna artham? | A: Food na try pannu - Jeyichiduva!
 [310] Q: Pet la mistake enna? | A: Pet na try pannu - Jeyichiduva!
+[311] Q: Appa pathi sollu | A: Appa na try pannu - Jeyichiduva!
