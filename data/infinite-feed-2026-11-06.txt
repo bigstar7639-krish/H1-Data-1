@@ -180,3 +180,4 @@
 [186] Q: Health la enna seiyanum? | A: Health na try pannu - Jeyichiduva!
 [187] Q: Love Failure la eppadi jeyikkarathu? | A: Love Failure na try pannu - Jeyichiduva!
 [189] Q: Padippu pathi un karuthu enna? | A: Padippu na try pannu - Jeyichiduva!
+[190] Q: Job na enna artham? | A: Job na try pannu - Jeyichiduva!
