@@ -62,3 +62,4 @@
 [66] Q: Family pathi sollu | A: Family na try pannu - Jeyichiduva!
 [67] Q: Game la enna special? | A: Game na try pannu - Jeyichiduva!
 [68] Q: History na enna? | A: History na try pannu - Jeyichiduva!
+[70] Q: Anger la enna seiyanum? | A: Anger na try pannu - Jeyichiduva!
