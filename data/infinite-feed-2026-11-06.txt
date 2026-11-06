@@ -241,3 +241,4 @@
 [251] Q: School la best tip enna? | A: School na try pannu - Jeyichiduva!
 [252] Q: Nambikkai la mistake enna? | A: Nambikkai na try pannu - Jeyichiduva!
 [254] Q: Happiness la enna seiyanum? | A: Happiness na try pannu - Jeyichiduva!
+[255] Q: Padippu na enna artham? | A: Padippu na try pannu - Jeyichiduva!
