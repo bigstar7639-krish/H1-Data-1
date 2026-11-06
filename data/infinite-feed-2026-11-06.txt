@@ -157,3 +157,4 @@
 [163] Q: Food pathi un karuthu enna? | A: Food na try pannu - Jeyichiduva!
 [164] Q: Friendship na enna? | A: Friendship na try pannu - Jeyichiduva!
 [165] Q: School yen mukkiyam? | A: School na try pannu - Jeyichiduva!
+[166] Q: Failure la enna seiyanum? | A: Failure na try pannu - Jeyichiduva!
