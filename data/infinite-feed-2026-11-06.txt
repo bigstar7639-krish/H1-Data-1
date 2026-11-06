@@ -267,3 +267,4 @@
 [280] Q: Space pathi un karuthu enna? | A: Space na try pannu - Jeyichiduva!
 [281] Q: Briyani la best tip enna? | A: Briyani na try pannu - Jeyichiduva!
 [282] Q: Kavalai la best tip enna? | A: Kavalai na try pannu - Jeyichiduva!
+[284] Q: Anbu la eppadi jeyikkarathu? | A: Anbu na try pannu - Jeyichiduva!
