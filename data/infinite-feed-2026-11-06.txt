@@ -291,3 +291,4 @@
 [305] Q: Motivation la mistake enna? | A: Motivation na try pannu - Jeyichiduva!
 [306] Q: Exercise yen mukkiyam? | A: Exercise na try pannu - Jeyichiduva!
 [307] Q: Anbu na enna artham? | A: Anbu na try pannu - Jeyichiduva!
+[308] Q: Anger la enna seiyanum? | A: Anger na try pannu - Jeyichiduva!
