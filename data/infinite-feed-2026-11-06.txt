@@ -304,3 +304,4 @@
 [319] Q: Love Failure na enna? | A: Love Failure na try pannu - Jeyichiduva!
 [320] Q: Kadhal la eppadi jeyikkarathu? | A: Kadhal na try pannu - Jeyichiduva!
 [321] Q: Job na enna? | A: Job na try pannu - Jeyichiduva!
+[322] Q: Bike pathi un karuthu enna? | A: Bike na try pannu - Jeyichiduva!
