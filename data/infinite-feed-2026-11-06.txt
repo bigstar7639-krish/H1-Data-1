@@ -79,3 +79,4 @@
 [84] Q: Bike la mistake enna? | A: Bike na try pannu - Jeyichiduva!
 [85] Q: Birthday la enna special? | A: Birthday na try pannu - Jeyichiduva!
 [86] Q: Nature yen mukkiyam? | A: Nature na try pannu - Jeyichiduva!
+[87] Q: Kavalai la eppadi jeyikkarathu? | A: Kavalai na try pannu - Jeyichiduva!
