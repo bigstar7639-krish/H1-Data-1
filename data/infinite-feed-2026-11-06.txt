@@ -159,3 +159,4 @@
 [165] Q: School yen mukkiyam? | A: School na try pannu - Jeyichiduva!
 [166] Q: Failure la enna seiyanum? | A: Failure na try pannu - Jeyichiduva!
 [167] Q: Pet yen mukkiyam? | A: Pet na try pannu - Jeyichiduva!
+[168] Q: Anbu pathi sollu | A: Anbu na try pannu - Jeyichiduva!
