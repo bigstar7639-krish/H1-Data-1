@@ -25,3 +25,4 @@
 [30] Success - Auto Cycle
 [31] Kanavu - Auto Cycle
 [35] Failure - Auto Cycle
+[36] Thiramai - Auto Cycle
