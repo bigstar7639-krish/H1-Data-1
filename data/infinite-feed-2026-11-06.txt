@@ -2,3 +2,4 @@
 [2] Q: Motivation pathi sollu | A: Motivation na try pannu - Jeyichiduva!
 [3] Q: Vazhkkai la eppadi jeyikkarathu? | A: Vazhkkai na try pannu - Jeyichiduva!
 [4] Q: Health yen mukkiyam? | A: Health na try pannu - Jeyichiduva!
+[5] Q: Tamil na enna? | A: Tamil na try pannu - Jeyichiduva!
