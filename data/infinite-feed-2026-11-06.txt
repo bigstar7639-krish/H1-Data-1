@@ -196,3 +196,4 @@
 [203] Q: Tech pathi sollu | A: Tech na try pannu - Jeyichiduva!
 [205] Q: Nature na enna artham? | A: Nature na try pannu - Jeyichiduva!
 [206] Q: Job pathi un karuthu enna? | A: Job na try pannu - Jeyichiduva!
+[207] Q: AI la enna seiyanum? | A: AI na try pannu - Jeyichiduva!
