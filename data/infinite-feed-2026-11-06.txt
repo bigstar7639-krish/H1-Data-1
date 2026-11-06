@@ -19,3 +19,4 @@
 [21] Q: AI pathi sollu | A: AI na try pannu - Jeyichiduva!
 [23] Q: Baby pathi sollu | A: Baby na try pannu - Jeyichiduva!
 [24] Q: Kavalai yen mukkiyam? | A: Kavalai na try pannu - Jeyichiduva!
+[25] Q: Science na enna artham? | A: Science na try pannu - Jeyichiduva!
