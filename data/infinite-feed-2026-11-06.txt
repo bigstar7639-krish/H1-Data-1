@@ -122,3 +122,4 @@
 [127] Q: Motivation la enna seiyanum? | A: Motivation na try pannu - Jeyichiduva!
 [128] Q: Bike pathi un karuthu enna? | A: Bike na try pannu - Jeyichiduva!
 [129] Q: Pet na enna? | A: Pet na try pannu - Jeyichiduva!
+[130] Q: Cinema la best tip enna? | A: Cinema na try pannu - Jeyichiduva!
