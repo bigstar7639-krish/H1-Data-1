@@ -127,3 +127,4 @@
 [132] Q: Travel na enna artham? | A: Travel na try pannu - Jeyichiduva!
 [133] Q: Travel la mistake enna? | A: Travel na try pannu - Jeyichiduva!
 [134] Q: Amma yen mukkiyam? | A: Amma na try pannu - Jeyichiduva!
+[135] Q: Courage la mistake enna? | A: Courage na try pannu - Jeyichiduva!
