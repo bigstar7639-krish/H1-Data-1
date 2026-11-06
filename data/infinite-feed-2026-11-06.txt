@@ -104,3 +104,4 @@
 [109] Q: Health la enna special? | A: Health na try pannu - Jeyichiduva!
 [110] Q: Lonely pathi un karuthu enna? | A: Lonely na try pannu - Jeyichiduva!
 [111] Q: College pathi sollu | A: College na try pannu - Jeyichiduva!
+[112] Q: YouTube la enna seiyanum? | A: YouTube na try pannu - Jeyichiduva!
