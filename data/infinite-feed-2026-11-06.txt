@@ -31,3 +31,4 @@
 [34] Q: Stress yen mukkiyam? | A: Stress na try pannu - Jeyichiduva!
 [35] Q: Briyani na enna artham? | A: Briyani na try pannu - Jeyichiduva!
 [36] Q: Exercise pathi un karuthu enna? | A: Exercise na try pannu - Jeyichiduva!
+[37] Q: Pet na enna? | A: Pet na try pannu - Jeyichiduva!
