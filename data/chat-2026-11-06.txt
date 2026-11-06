@@ -21,3 +21,4 @@
 [25] Pet - Auto Cycle
 [27] Vazhkkai - Auto Cycle
 [28] Baby - Auto Cycle
+[29] Anbu - Auto Cycle
