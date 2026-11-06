@@ -135,3 +135,4 @@
 [140] Q: Birthday la enna special? | A: Birthday na try pannu - Jeyichiduva!
 [141] Q: Exercise la best tip enna? | A: Exercise na try pannu - Jeyichiduva!
 [142] Q: Anger pathi sollu | A: Anger na try pannu - Jeyichiduva!
+[143] Q: Exercise la enna seiyanum? | A: Exercise na try pannu - Jeyichiduva!
