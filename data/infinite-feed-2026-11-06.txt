@@ -162,3 +162,4 @@
 [168] Q: Anbu pathi sollu | A: Anbu na try pannu - Jeyichiduva!
 [169] Q: Nambikkai pathi un karuthu enna? | A: Nambikkai na try pannu - Jeyichiduva!
 [170] Q: Thiramai pathi sollu | A: Thiramai na try pannu - Jeyichiduva!
+[171] Q: Tech na enna artham? | A: Tech na try pannu - Jeyichiduva!
