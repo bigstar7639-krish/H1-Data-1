@@ -251,3 +251,4 @@
 [263] Q: Family la enna seiyanum? | A: Family na try pannu - Jeyichiduva!
 [264] Q: YouTube la enna special? | A: YouTube na try pannu - Jeyichiduva!
 [265] Q: Money la enna seiyanum? | A: Money na try pannu - Jeyichiduva!
+[266] Q: Phone pathi sollu | A: Phone na try pannu - Jeyichiduva!
