@@ -28,3 +28,4 @@
 [31] Q: Kadhal la eppadi jeyikkarathu? | A: Kadhal na try pannu - Jeyichiduva!
 [32] Q: Stress la best tip enna? | A: Stress na try pannu - Jeyichiduva!
 [33] Q: Tech la enna seiyanum? | A: Tech na try pannu - Jeyichiduva!
+[34] Q: Stress yen mukkiyam? | A: Stress na try pannu - Jeyichiduva!
