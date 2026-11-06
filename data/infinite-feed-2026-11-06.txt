@@ -96,3 +96,4 @@
 [101] Q: Career pathi un karuthu enna? | A: Career na try pannu - Jeyichiduva!
 [102] Q: AI na enna artham? | A: AI na try pannu - Jeyichiduva!
 [103] Q: School na enna? | A: School na try pannu - Jeyichiduva!
+[104] Q: Tech la enna seiyanum? | A: Tech na try pannu - Jeyichiduva!
