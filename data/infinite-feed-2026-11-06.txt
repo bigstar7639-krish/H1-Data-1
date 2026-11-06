@@ -259,3 +259,4 @@
 [271] Q: Thiramai la mistake enna? | A: Thiramai na try pannu - Jeyichiduva!
 [272] Q: Business na enna? | A: Business na try pannu - Jeyichiduva!
 [273] Q: Sirippu pathi sollu | A: Sirippu na try pannu - Jeyichiduva!
+[274] Q: Anger la mistake enna? | A: Anger na try pannu - Jeyichiduva!
