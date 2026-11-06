@@ -307,3 +307,4 @@
 [322] Q: Bike pathi un karuthu enna? | A: Bike na try pannu - Jeyichiduva!
 [323] Q: Happiness la eppadi jeyikkarathu? | A: Happiness na try pannu - Jeyichiduva!
 [324] Q: Travel la best tip enna? | A: Travel na try pannu - Jeyichiduva!
+[325] Q: Family pathi un karuthu enna? | A: Family na try pannu - Jeyichiduva!
