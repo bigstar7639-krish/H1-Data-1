@@ -302,3 +302,4 @@
 [317] Q: Food na enna artham? | A: Food na try pannu - Jeyichiduva!
 [318] Q: Exam la best tip enna? | A: Exam na try pannu - Jeyichiduva!
 [319] Q: Love Failure na enna? | A: Love Failure na try pannu - Jeyichiduva!
+[320] Q: Kadhal la eppadi jeyikkarathu? | A: Kadhal na try pannu - Jeyichiduva!
