@@ -118,3 +118,4 @@
 [123] Q: Courage la eppadi jeyikkarathu? | A: Courage na try pannu - Jeyichiduva!
 [124] Q: Travel la eppadi jeyikkarathu? | A: Travel na try pannu - Jeyichiduva!
 [125] Q: Study na enna? | A: Study na try pannu - Jeyichiduva!
+[126] Q: Exam la best tip enna? | A: Exam na try pannu - Jeyichiduva!
