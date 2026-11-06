@@ -34,3 +34,4 @@
 [42] Appa - Auto Cycle
 [43] Failure - Auto Cycle
 [44] Padippu - Auto Cycle
+[45] History - Auto Cycle
