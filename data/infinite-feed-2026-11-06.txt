@@ -165,3 +165,4 @@
 [171] Q: Tech na enna artham? | A: Tech na try pannu - Jeyichiduva!
 [172] Q: AI pathi sollu | A: AI na try pannu - Jeyichiduva!
 [173] Q: Health la best tip enna? | A: Health na try pannu - Jeyichiduva!
+[174] Q: Appa la mistake enna? | A: Appa na try pannu - Jeyichiduva!
