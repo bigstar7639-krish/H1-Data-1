@@ -14,3 +14,4 @@
 [17] Porumai - Auto Cycle
 [18] Padippu - Auto Cycle
 [20] Exam - Auto Cycle
+[21] AI - Auto Cycle
