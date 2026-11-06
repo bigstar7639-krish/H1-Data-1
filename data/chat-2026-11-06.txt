@@ -29,3 +29,4 @@
 [37] Travel - Auto Cycle
 [38] College - Auto Cycle
 [39] Study - Auto Cycle
+[40] Space - Auto Cycle
