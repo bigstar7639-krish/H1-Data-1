@@ -275,3 +275,4 @@
 [289] Q: Anbu na enna? | A: Anbu na try pannu - Jeyichiduva!
 [290] Q: Sirippu yen mukkiyam? | A: Sirippu na try pannu - Jeyichiduva!
 [291] Q: Porumai na enna artham? | A: Porumai na try pannu - Jeyichiduva!
+[292] Q: AI na enna artham? | A: AI na try pannu - Jeyichiduva!
