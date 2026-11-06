@@ -218,3 +218,4 @@
 [227] Q: Anger pathi sollu | A: Anger na try pannu - Jeyichiduva!
 [229] Q: Music yen mukkiyam? | A: Music na try pannu - Jeyichiduva!
 [230] Q: Food pathi un karuthu enna? | A: Food na try pannu - Jeyichiduva!
+[231] Q: Amma pathi sollu | A: Amma na try pannu - Jeyichiduva!
