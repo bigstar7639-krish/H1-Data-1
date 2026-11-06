@@ -10,3 +10,4 @@
 [10] Q: Health la eppadi jeyikkarathu? | A: Health na try pannu - Jeyichiduva!
 [11] Q: Cinema la eppadi jeyikkarathu? | A: Cinema na try pannu - Jeyichiduva!
 [13] Q: Appa la eppadi jeyikkarathu? | A: Appa na try pannu - Jeyichiduva!
+[14] Q: Azhagu na enna artham? | A: Azhagu na try pannu - Jeyichiduva!
