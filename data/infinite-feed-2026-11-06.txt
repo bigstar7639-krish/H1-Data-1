@@ -35,3 +35,4 @@
 [38] Q: Travel la enna seiyanum? | A: Travel na try pannu - Jeyichiduva!
 [39] Q: Nature la best tip enna? | A: Nature na try pannu - Jeyichiduva!
 [40] Q: Dream na enna artham? | A: Dream na try pannu - Jeyichiduva!
+[41] Q: Business na enna artham? | A: Business na try pannu - Jeyichiduva!
