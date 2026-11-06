@@ -285,3 +285,4 @@
 [299] Q: Kavalai la best tip enna? | A: Kavalai na try pannu - Jeyichiduva!
 [300] Q: Exam la mistake enna? | A: Exam na try pannu - Jeyichiduva!
 [301] Q: School la eppadi jeyikkarathu? | A: School na try pannu - Jeyichiduva!
+[302] Q: Cinema la enna special? | A: Cinema na try pannu - Jeyichiduva!
