@@ -166,3 +166,4 @@
 [172] Q: AI pathi sollu | A: AI na try pannu - Jeyichiduva!
 [173] Q: Health la best tip enna? | A: Health na try pannu - Jeyichiduva!
 [174] Q: Appa la mistake enna? | A: Appa na try pannu - Jeyichiduva!
+[175] Q: Love Failure na enna? | A: Love Failure na try pannu - Jeyichiduva!
