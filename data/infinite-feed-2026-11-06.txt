@@ -258,3 +258,4 @@
 [270] Q: School pathi un karuthu enna? | A: School na try pannu - Jeyichiduva!
 [271] Q: Thiramai la mistake enna? | A: Thiramai na try pannu - Jeyichiduva!
 [272] Q: Business na enna? | A: Business na try pannu - Jeyichiduva!
+[273] Q: Sirippu pathi sollu | A: Sirippu na try pannu - Jeyichiduva!
