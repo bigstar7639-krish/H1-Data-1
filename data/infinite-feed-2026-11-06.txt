@@ -152,3 +152,4 @@
 [158] Q: Family la enna seiyanum? | A: Family na try pannu - Jeyichiduva!
 [159] Q: Briyani yen mukkiyam? | A: Briyani na try pannu - Jeyichiduva!
 [160] Q: Space la mistake enna? | A: Space na try pannu - Jeyichiduva!
+[161] Q: Kavalai yen mukkiyam? | A: Kavalai na try pannu - Jeyichiduva!
