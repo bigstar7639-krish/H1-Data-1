@@ -161,3 +161,4 @@
 [167] Q: Pet yen mukkiyam? | A: Pet na try pannu - Jeyichiduva!
 [168] Q: Anbu pathi sollu | A: Anbu na try pannu - Jeyichiduva!
 [169] Q: Nambikkai pathi un karuthu enna? | A: Nambikkai na try pannu - Jeyichiduva!
+[170] Q: Thiramai pathi sollu | A: Thiramai na try pannu - Jeyichiduva!
