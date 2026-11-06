@@ -131,3 +131,4 @@
 [136] Q: Success la enna special? | A: Success na try pannu - Jeyichiduva!
 [137] Q: Happiness la enna seiyanum? | A: Happiness na try pannu - Jeyichiduva!
 [138] Q: Phone la enna special? | A: Phone na try pannu - Jeyichiduva!
+[139] Q: Padippu pathi sollu | A: Padippu na try pannu - Jeyichiduva!
