@@ -282,3 +282,4 @@
 [296] Q: Science la enna special? | A: Science na try pannu - Jeyichiduva!
 [297] Q: Kavithai pathi sollu | A: Kavithai na try pannu - Jeyichiduva!
 [298] Q: Nature la eppadi jeyikkarathu? | A: Nature na try pannu - Jeyichiduva!
+[299] Q: Kavalai la best tip enna? | A: Kavalai na try pannu - Jeyichiduva!
