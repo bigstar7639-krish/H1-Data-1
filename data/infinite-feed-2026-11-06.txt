@@ -182,3 +182,4 @@
 [189] Q: Padippu pathi un karuthu enna? | A: Padippu na try pannu - Jeyichiduva!
 [190] Q: Job na enna artham? | A: Job na try pannu - Jeyichiduva!
 [191] Q: Sirippu la eppadi jeyikkarathu? | A: Sirippu na try pannu - Jeyichiduva!
+[192] Q: Pet la mistake enna? | A: Pet na try pannu - Jeyichiduva!
