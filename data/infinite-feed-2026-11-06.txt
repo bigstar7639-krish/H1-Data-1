@@ -263,3 +263,4 @@
 [275] Q: Kadhal la best tip enna? | A: Kadhal na try pannu - Jeyichiduva!
 [277] Q: Padippu la enna special? | A: Padippu na try pannu - Jeyichiduva!
 [278] Q: Thiramai yen mukkiyam? | A: Thiramai na try pannu - Jeyichiduva!
+[279] Q: Food la best tip enna? | A: Food na try pannu - Jeyichiduva!
