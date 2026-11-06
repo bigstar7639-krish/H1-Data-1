@@ -309,3 +309,4 @@
 [324] Q: Travel la best tip enna? | A: Travel na try pannu - Jeyichiduva!
 [325] Q: Family pathi un karuthu enna? | A: Family na try pannu - Jeyichiduva!
 [326] Q: Baby la eppadi jeyikkarathu? | A: Baby na try pannu - Jeyichiduva!
+[327] Q: Tamil la enna seiyanum? | A: Tamil na try pannu - Jeyichiduva!
