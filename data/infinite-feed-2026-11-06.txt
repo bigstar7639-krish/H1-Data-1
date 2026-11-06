@@ -230,3 +230,4 @@
 [240] Q: Lonely la enna special? | A: Lonely na try pannu - Jeyichiduva!
 [241] Q: College la eppadi jeyikkarathu? | A: College na try pannu - Jeyichiduva!
 [242] Q: Amma pathi un karuthu enna? | A: Amma na try pannu - Jeyichiduva!
+[243] Q: Bike na enna? | A: Bike na try pannu - Jeyichiduva!
