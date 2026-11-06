@@ -145,3 +145,4 @@
 [151] Q: Space la mistake enna? | A: Space na try pannu - Jeyichiduva!
 [152] Q: History pathi sollu | A: History na try pannu - Jeyichiduva!
 [153] Q: Study la eppadi jeyikkarathu? | A: Study na try pannu - Jeyichiduva!
+[154] Q: Tech la eppadi jeyikkarathu? | A: Tech na try pannu - Jeyichiduva!
