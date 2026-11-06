@@ -278,3 +278,4 @@
 [292] Q: AI na enna artham? | A: AI na try pannu - Jeyichiduva!
 [293] Q: Porumai la enna special? | A: Porumai na try pannu - Jeyichiduva!
 [294] Q: AI na enna? | A: AI na try pannu - Jeyichiduva!
+[295] Q: School la mistake enna? | A: School na try pannu - Jeyichiduva!
