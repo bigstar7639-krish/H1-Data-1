@@ -15,3 +15,4 @@
 [18] Padippu - Auto Cycle
 [20] Exam - Auto Cycle
 [21] AI - Auto Cycle
+[22] Amma - Auto Cycle
