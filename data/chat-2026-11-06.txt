@@ -24,3 +24,4 @@
 [29] Anbu - Auto Cycle
 [30] Success - Auto Cycle
 [31] Kanavu - Auto Cycle
+[35] Failure - Auto Cycle
