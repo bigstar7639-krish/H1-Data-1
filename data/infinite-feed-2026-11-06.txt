@@ -115,3 +115,4 @@
 [120] Q: Phone pathi un karuthu enna? | A: Phone na try pannu - Jeyichiduva!
 [121] Q: Azhagu la enna seiyanum? | A: Azhagu na try pannu - Jeyichiduva!
 [122] Q: Life na enna? | A: Life na try pannu - Jeyichiduva!
+[123] Q: Courage la eppadi jeyikkarathu? | A: Courage na try pannu - Jeyichiduva!
