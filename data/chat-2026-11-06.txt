@@ -1,1 +1,1 @@
-[2026-11-06 07:07:54] [AI-Q] AI Q: ChatGPT maari AI eppadi work aaguthu?
+[2026-11-06 07:08:01] [AI-A] Aira AI: AI-nu solra mathiri, neram seriya data kudutha, neural network la layers ah train panni patterns ah learn pannuthu. Input kudutha, aana knowledge base la irundhu best match-a output ah generate panra mathiri. So, simple ah sonna, “big brain” mathiri data kudukittu practice seythu, question ke answer kudukkura bot dhaan!
