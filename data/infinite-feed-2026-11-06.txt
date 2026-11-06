@@ -100,3 +100,4 @@
 [105] Q: Vazhkkai la enna special? | A: Vazhkkai na try pannu - Jeyichiduva!
 [106] Q: Tamil pathi un karuthu enna? | A: Tamil na try pannu - Jeyichiduva!
 [107] Q: College pathi un karuthu enna? | A: College na try pannu - Jeyichiduva!
+[108] Q: Tech la eppadi jeyikkarathu? | A: Tech na try pannu - Jeyichiduva!
