@@ -25,3 +25,4 @@
 [28] Q: Padippu pathi un karuthu enna? | A: Padippu na try pannu - Jeyichiduva!
 [29] Q: Career la enna seiyanum? | A: Career na try pannu - Jeyichiduva!
 [30] Q: Health na enna? | A: Health na try pannu - Jeyichiduva!
+[31] Q: Kadhal la eppadi jeyikkarathu? | A: Kadhal na try pannu - Jeyichiduva!
