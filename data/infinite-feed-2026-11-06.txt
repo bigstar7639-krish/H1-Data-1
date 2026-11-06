@@ -39,3 +39,4 @@
 [42] Q: Success la best tip enna? | A: Success na try pannu - Jeyichiduva!
 [43] Q: Friendship la enna special? | A: Friendship na try pannu - Jeyichiduva!
 [44] Q: Business yen mukkiyam? | A: Business na try pannu - Jeyichiduva!
+[45] Q: Motivation la enna special? | A: Motivation na try pannu - Jeyichiduva!
