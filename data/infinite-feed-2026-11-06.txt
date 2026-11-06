@@ -59,3 +59,4 @@
 [63] Q: Sirippu yen mukkiyam? | A: Sirippu na try pannu - Jeyichiduva!
 [64] Q: Pet la enna special? | A: Pet na try pannu - Jeyichiduva!
 [65] Q: Stress la enna seiyanum? | A: Stress na try pannu - Jeyichiduva!
+[66] Q: Family pathi sollu | A: Family na try pannu - Jeyichiduva!
