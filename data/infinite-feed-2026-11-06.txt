@@ -11,3 +11,4 @@
 [11] Q: Cinema la eppadi jeyikkarathu? | A: Cinema na try pannu - Jeyichiduva!
 [13] Q: Appa la eppadi jeyikkarathu? | A: Appa na try pannu - Jeyichiduva!
 [14] Q: Azhagu na enna artham? | A: Azhagu na try pannu - Jeyichiduva!
+[15] Q: Tech pathi un karuthu enna? | A: Tech na try pannu - Jeyichiduva!
