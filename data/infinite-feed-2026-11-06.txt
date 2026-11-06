@@ -98,3 +98,4 @@
 [103] Q: School na enna? | A: School na try pannu - Jeyichiduva!
 [104] Q: Tech la enna seiyanum? | A: Tech na try pannu - Jeyichiduva!
 [105] Q: Vazhkkai la enna special? | A: Vazhkkai na try pannu - Jeyichiduva!
+[106] Q: Tamil pathi un karuthu enna? | A: Tamil na try pannu - Jeyichiduva!
