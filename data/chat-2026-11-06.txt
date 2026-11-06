@@ -39,3 +39,4 @@
 [50] Azhagu - Auto Cycle
 [51] Padippu - Auto Cycle
 [52] Love Failure - Auto Cycle
+[54] Tech - Auto Cycle
