@@ -286,3 +286,4 @@
 [300] Q: Exam la mistake enna? | A: Exam na try pannu - Jeyichiduva!
 [301] Q: School la eppadi jeyikkarathu? | A: School na try pannu - Jeyichiduva!
 [302] Q: Cinema la enna special? | A: Cinema na try pannu - Jeyichiduva!
+[303] Q: Life na enna artham? | A: Life na try pannu - Jeyichiduva!
