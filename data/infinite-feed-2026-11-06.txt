@@ -84,3 +84,4 @@
 [89] Q: Kanavu la enna special? | A: Kanavu na try pannu - Jeyichiduva!
 [90] Q: Anger pathi un karuthu enna? | A: Anger na try pannu - Jeyichiduva!
 [91] Q: Anbu pathi sollu | A: Anbu na try pannu - Jeyichiduva!
+[92] Q: Kavithai la enna special? | A: Kavithai na try pannu - Jeyichiduva!
