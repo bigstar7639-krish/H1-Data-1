@@ -23,3 +23,4 @@
 [28] Baby - Auto Cycle
 [29] Anbu - Auto Cycle
 [30] Success - Auto Cycle
+[31] Kanavu - Auto Cycle
