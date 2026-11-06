@@ -209,3 +209,4 @@
 [217] Q: Game la eppadi jeyikkarathu? | A: Game na try pannu - Jeyichiduva!
 [219] Q: Nature pathi sollu | A: Nature na try pannu - Jeyichiduva!
 [220] Q: Dream la eppadi jeyikkarathu? | A: Dream na try pannu - Jeyichiduva!
+[221] Q: Nambikkai la mistake enna? | A: Nambikkai na try pannu - Jeyichiduva!
