@@ -47,3 +47,4 @@
 [51] Q: Sleep la enna seiyanum? | A: Sleep na try pannu - Jeyichiduva!
 [52] Q: Motivation yen mukkiyam? | A: Motivation na try pannu - Jeyichiduva!
 [53] Q: Food la enna seiyanum? | A: Food na try pannu - Jeyichiduva!
+[54] Q: Anbu la enna special? | A: Anbu na try pannu - Jeyichiduva!
