@@ -265,3 +265,4 @@
 [278] Q: Thiramai yen mukkiyam? | A: Thiramai na try pannu - Jeyichiduva!
 [279] Q: Food la best tip enna? | A: Food na try pannu - Jeyichiduva!
 [280] Q: Space pathi un karuthu enna? | A: Space na try pannu - Jeyichiduva!
+[281] Q: Briyani la best tip enna? | A: Briyani na try pannu - Jeyichiduva!
