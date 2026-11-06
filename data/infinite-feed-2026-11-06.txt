@@ -217,3 +217,4 @@
 [226] Q: Space na enna artham? | A: Space na try pannu - Jeyichiduva!
 [227] Q: Anger pathi sollu | A: Anger na try pannu - Jeyichiduva!
 [229] Q: Music yen mukkiyam? | A: Music na try pannu - Jeyichiduva!
+[230] Q: Food pathi un karuthu enna? | A: Food na try pannu - Jeyichiduva!
