@@ -137,3 +137,4 @@
 [142] Q: Anger pathi sollu | A: Anger na try pannu - Jeyichiduva!
 [143] Q: Exercise la enna seiyanum? | A: Exercise na try pannu - Jeyichiduva!
 [144] Q: Padippu pathi un karuthu enna? | A: Padippu na try pannu - Jeyichiduva!
+[145] Q: Study yen mukkiyam? | A: Study na try pannu - Jeyichiduva!
