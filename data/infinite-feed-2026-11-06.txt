@@ -139,3 +139,4 @@
 [144] Q: Padippu pathi un karuthu enna? | A: Padippu na try pannu - Jeyichiduva!
 [145] Q: Study yen mukkiyam? | A: Study na try pannu - Jeyichiduva!
 [146] Q: Music na enna artham? | A: Music na try pannu - Jeyichiduva!
+[148] Q: Amma pathi un karuthu enna? | A: Amma na try pannu - Jeyichiduva!
