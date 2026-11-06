@@ -250,3 +250,4 @@
 [262] Q: Tech la eppadi jeyikkarathu? | A: Tech na try pannu - Jeyichiduva!
 [263] Q: Family la enna seiyanum? | A: Family na try pannu - Jeyichiduva!
 [264] Q: YouTube la enna special? | A: YouTube na try pannu - Jeyichiduva!
+[265] Q: Money la enna seiyanum? | A: Money na try pannu - Jeyichiduva!
