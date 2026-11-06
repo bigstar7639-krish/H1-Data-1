@@ -243,3 +243,4 @@
 [254] Q: Happiness la enna seiyanum? | A: Happiness na try pannu - Jeyichiduva!
 [255] Q: Padippu na enna artham? | A: Padippu na try pannu - Jeyichiduva!
 [256] Q: Anbu la enna special? | A: Anbu na try pannu - Jeyichiduva!
+[257] Q: Appa yen mukkiyam? | A: Appa na try pannu - Jeyichiduva!
