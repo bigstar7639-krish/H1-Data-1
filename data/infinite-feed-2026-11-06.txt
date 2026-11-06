@@ -121,3 +121,4 @@
 [126] Q: Exam la best tip enna? | A: Exam na try pannu - Jeyichiduva!
 [127] Q: Motivation la enna seiyanum? | A: Motivation na try pannu - Jeyichiduva!
 [128] Q: Bike pathi un karuthu enna? | A: Bike na try pannu - Jeyichiduva!
+[129] Q: Pet na enna? | A: Pet na try pannu - Jeyichiduva!
