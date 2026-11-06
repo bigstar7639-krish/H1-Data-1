@@ -280,3 +280,4 @@
 [294] Q: AI na enna? | A: AI na try pannu - Jeyichiduva!
 [295] Q: School la mistake enna? | A: School na try pannu - Jeyichiduva!
 [296] Q: Science la enna special? | A: Science na try pannu - Jeyichiduva!
+[297] Q: Kavithai pathi sollu | A: Kavithai na try pannu - Jeyichiduva!
