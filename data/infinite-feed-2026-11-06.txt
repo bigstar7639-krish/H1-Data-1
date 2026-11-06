@@ -87,3 +87,4 @@
 [92] Q: Kavithai la enna special? | A: Kavithai na try pannu - Jeyichiduva!
 [93] Q: Business na enna? | A: Business na try pannu - Jeyichiduva!
 [94] Q: Nature yen mukkiyam? | A: Nature na try pannu - Jeyichiduva!
+[95] Q: Pet la eppadi jeyikkarathu? | A: Pet na try pannu - Jeyichiduva!
