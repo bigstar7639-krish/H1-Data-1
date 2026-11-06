@@ -92,3 +92,4 @@
 [97] Q: Nambikkai na enna? | A: Nambikkai na try pannu - Jeyichiduva!
 [98] Q: Appa la eppadi jeyikkarathu? | A: Appa na try pannu - Jeyichiduva!
 [99] Q: Space la enna seiyanum? | A: Space na try pannu - Jeyichiduva!
+[100] Q: Azhagu na enna? | A: Azhagu na try pannu - Jeyichiduva!
