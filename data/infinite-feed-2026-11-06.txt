@@ -178,3 +178,4 @@
 [184] Q: Tamil la enna seiyanum? | A: Tamil na try pannu - Jeyichiduva!
 [185] Q: Career la eppadi jeyikkarathu? | A: Career na try pannu - Jeyichiduva!
 [186] Q: Health la enna seiyanum? | A: Health na try pannu - Jeyichiduva!
+[187] Q: Love Failure la eppadi jeyikkarathu? | A: Love Failure na try pannu - Jeyichiduva!
