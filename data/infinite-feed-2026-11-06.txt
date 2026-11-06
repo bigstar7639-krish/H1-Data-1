@@ -102,3 +102,4 @@
 [107] Q: College pathi un karuthu enna? | A: College na try pannu - Jeyichiduva!
 [108] Q: Tech la eppadi jeyikkarathu? | A: Tech na try pannu - Jeyichiduva!
 [109] Q: Health la enna special? | A: Health na try pannu - Jeyichiduva!
+[110] Q: Lonely pathi un karuthu enna? | A: Lonely na try pannu - Jeyichiduva!
