@@ -295,3 +295,4 @@
 [309] Q: Food na enna artham? | A: Food na try pannu - Jeyichiduva!
 [310] Q: Pet la mistake enna? | A: Pet na try pannu - Jeyichiduva!
 [311] Q: Appa pathi sollu | A: Appa na try pannu - Jeyichiduva!
+[312] Q: Money na enna artham? | A: Money na try pannu - Jeyichiduva!
