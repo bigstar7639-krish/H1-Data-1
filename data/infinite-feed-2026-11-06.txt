@@ -299,3 +299,4 @@
 [313] Q: Nambikkai pathi sollu | A: Nambikkai na try pannu - Jeyichiduva!
 [314] Q: Confidence pathi un karuthu enna? | A: Confidence na try pannu - Jeyichiduva!
 [316] Q: Pet la eppadi jeyikkarathu? | A: Pet na try pannu - Jeyichiduva!
+[317] Q: Food na enna artham? | A: Food na try pannu - Jeyichiduva!
