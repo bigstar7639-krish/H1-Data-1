@@ -171,3 +171,4 @@
 [177] Q: Azhagu la enna special? | A: Azhagu na try pannu - Jeyichiduva!
 [178] Q: Padippu la mistake enna? | A: Padippu na try pannu - Jeyichiduva!
 [179] Q: Bike la eppadi jeyikkarathu? | A: Bike na try pannu - Jeyichiduva!
+[180] Q: Game pathi sollu | A: Game na try pannu - Jeyichiduva!
