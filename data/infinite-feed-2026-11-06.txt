@@ -246,3 +246,4 @@
 [257] Q: Appa yen mukkiyam? | A: Appa na try pannu - Jeyichiduva!
 [259] Q: Lonely la enna special? | A: Lonely na try pannu - Jeyichiduva!
 [260] Q: Briyani yen mukkiyam? | A: Briyani na try pannu - Jeyichiduva!
+[261] Q: Health na enna artham? | A: Health na try pannu - Jeyichiduva!
