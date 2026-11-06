@@ -293,3 +293,4 @@
 [307] Q: Anbu na enna artham? | A: Anbu na try pannu - Jeyichiduva!
 [308] Q: Anger la enna seiyanum? | A: Anger na try pannu - Jeyichiduva!
 [309] Q: Food na enna artham? | A: Food na try pannu - Jeyichiduva!
+[310] Q: Pet la mistake enna? | A: Pet na try pannu - Jeyichiduva!
