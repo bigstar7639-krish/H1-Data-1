@@ -43,3 +43,4 @@
 [46] Q: Happiness la enna special? | A: Happiness na try pannu - Jeyichiduva!
 [47] Q: Motivation la best tip enna? | A: Motivation na try pannu - Jeyichiduva!
 [48] Q: Music la enna special? | A: Music na try pannu - Jeyichiduva!
+[50] Q: Vazhkkai na enna? | A: Vazhkkai na try pannu - Jeyichiduva!
