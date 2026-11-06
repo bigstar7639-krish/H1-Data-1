@@ -155,3 +155,4 @@
 [161] Q: Kavalai yen mukkiyam? | A: Kavalai na try pannu - Jeyichiduva!
 [162] Q: Courage la enna seiyanum? | A: Courage na try pannu - Jeyichiduva!
 [163] Q: Food pathi un karuthu enna? | A: Food na try pannu - Jeyichiduva!
+[164] Q: Friendship na enna? | A: Friendship na try pannu - Jeyichiduva!
