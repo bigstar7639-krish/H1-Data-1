@@ -113,3 +113,4 @@
 [118] Q: Festival la mistake enna? | A: Festival na try pannu - Jeyichiduva!
 [119] Q: Career la mistake enna? | A: Career na try pannu - Jeyichiduva!
 [120] Q: Phone pathi un karuthu enna? | A: Phone na try pannu - Jeyichiduva!
+[121] Q: Azhagu la enna seiyanum? | A: Azhagu na try pannu - Jeyichiduva!
