@@ -184,3 +184,4 @@
 [191] Q: Sirippu la eppadi jeyikkarathu? | A: Sirippu na try pannu - Jeyichiduva!
 [192] Q: Pet la mistake enna? | A: Pet na try pannu - Jeyichiduva!
 [193] Q: Exam la enna special? | A: Exam na try pannu - Jeyichiduva!
+[194] Q: Festival yen mukkiyam? | A: Festival na try pannu - Jeyichiduva!
