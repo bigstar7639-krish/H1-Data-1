@@ -226,3 +226,4 @@
 [236] Q: Lonely pathi sollu | A: Lonely na try pannu - Jeyichiduva!
 [237] Q: Nambikkai la eppadi jeyikkarathu? | A: Nambikkai na try pannu - Jeyichiduva!
 [238] Q: YouTube yen mukkiyam? | A: YouTube na try pannu - Jeyichiduva!
+[239] Q: Science la best tip enna? | A: Science na try pannu - Jeyichiduva!
