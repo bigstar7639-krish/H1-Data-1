@@ -214,3 +214,4 @@
 [223] Q: Happiness pathi un karuthu enna? | A: Happiness na try pannu - Jeyichiduva!
 [224] Q: Game la best tip enna? | A: Game na try pannu - Jeyichiduva!
 [225] Q: School pathi sollu | A: School na try pannu - Jeyichiduva!
+[226] Q: Space na enna artham? | A: Space na try pannu - Jeyichiduva!
