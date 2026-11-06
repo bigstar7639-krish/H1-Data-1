@@ -95,3 +95,4 @@
 [100] Q: Azhagu na enna? | A: Azhagu na try pannu - Jeyichiduva!
 [101] Q: Career pathi un karuthu enna? | A: Career na try pannu - Jeyichiduva!
 [102] Q: AI na enna artham? | A: AI na try pannu - Jeyichiduva!
+[103] Q: School na enna? | A: School na try pannu - Jeyichiduva!
