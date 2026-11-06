@@ -93,3 +93,4 @@
 [98] Q: Appa la eppadi jeyikkarathu? | A: Appa na try pannu - Jeyichiduva!
 [99] Q: Space la enna seiyanum? | A: Space na try pannu - Jeyichiduva!
 [100] Q: Azhagu na enna? | A: Azhagu na try pannu - Jeyichiduva!
+[101] Q: Career pathi un karuthu enna? | A: Career na try pannu - Jeyichiduva!
