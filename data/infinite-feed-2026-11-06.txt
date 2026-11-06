@@ -233,3 +233,4 @@
 [243] Q: Bike na enna? | A: Bike na try pannu - Jeyichiduva!
 [244] Q: Stress la enna seiyanum? | A: Stress na try pannu - Jeyichiduva!
 [245] Q: Health la eppadi jeyikkarathu? | A: Health na try pannu - Jeyichiduva!
+[246] Q: Money la best tip enna? | A: Money na try pannu - Jeyichiduva!
