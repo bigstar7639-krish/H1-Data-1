@@ -16,3 +16,4 @@
 [20] Exam - Auto Cycle
 [21] AI - Auto Cycle
 [22] Amma - Auto Cycle
+[23] History - Auto Cycle
