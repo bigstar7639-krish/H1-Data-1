@@ -90,3 +90,4 @@
 [95] Q: Pet la eppadi jeyikkarathu? | A: Pet na try pannu - Jeyichiduva!
 [96] Q: Lonely yen mukkiyam? | A: Lonely na try pannu - Jeyichiduva!
 [97] Q: Nambikkai na enna? | A: Nambikkai na try pannu - Jeyichiduva!
+[98] Q: Appa la eppadi jeyikkarathu? | A: Appa na try pannu - Jeyichiduva!
