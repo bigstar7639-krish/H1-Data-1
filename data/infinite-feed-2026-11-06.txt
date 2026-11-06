@@ -146,3 +146,4 @@
 [152] Q: History pathi sollu | A: History na try pannu - Jeyichiduva!
 [153] Q: Study la eppadi jeyikkarathu? | A: Study na try pannu - Jeyichiduva!
 [154] Q: Tech la eppadi jeyikkarathu? | A: Tech na try pannu - Jeyichiduva!
+[155] Q: Confidence la best tip enna? | A: Confidence na try pannu - Jeyichiduva!
