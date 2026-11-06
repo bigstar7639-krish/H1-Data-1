@@ -88,3 +88,4 @@
 [93] Q: Business na enna? | A: Business na try pannu - Jeyichiduva!
 [94] Q: Nature yen mukkiyam? | A: Nature na try pannu - Jeyichiduva!
 [95] Q: Pet la eppadi jeyikkarathu? | A: Pet na try pannu - Jeyichiduva!
+[96] Q: Lonely yen mukkiyam? | A: Lonely na try pannu - Jeyichiduva!
