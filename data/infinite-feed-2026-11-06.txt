@@ -199,3 +199,4 @@
 [207] Q: AI la enna seiyanum? | A: AI na try pannu - Jeyichiduva!
 [208] Q: Exam pathi sollu | A: Exam na try pannu - Jeyichiduva!
 [209] Q: Pet yen mukkiyam? | A: Pet na try pannu - Jeyichiduva!
+[210] Q: Azhagu yen mukkiyam? | A: Azhagu na try pannu - Jeyichiduva!
