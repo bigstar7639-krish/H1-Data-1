@@ -124,3 +124,4 @@
 [129] Q: Pet na enna? | A: Pet na try pannu - Jeyichiduva!
 [130] Q: Cinema la best tip enna? | A: Cinema na try pannu - Jeyichiduva!
 [131] Q: YouTube yen mukkiyam? | A: YouTube na try pannu - Jeyichiduva!
+[132] Q: Travel na enna artham? | A: Travel na try pannu - Jeyichiduva!
