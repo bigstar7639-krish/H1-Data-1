@@ -56,3 +56,4 @@
 [60] Q: Life la eppadi jeyikkarathu? | A: Life na try pannu - Jeyichiduva!
 [61] Q: Health la enna special? | A: Health na try pannu - Jeyichiduva!
 [62] Q: AI la best tip enna? | A: AI na try pannu - Jeyichiduva!
+[63] Q: Sirippu yen mukkiyam? | A: Sirippu na try pannu - Jeyichiduva!
