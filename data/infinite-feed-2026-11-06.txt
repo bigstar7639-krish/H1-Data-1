@@ -15,3 +15,4 @@
 [16] Q: Lonely pathi un karuthu enna? | A: Lonely na try pannu - Jeyichiduva!
 [18] Q: Confidence la enna seiyanum? | A: Confidence na try pannu - Jeyichiduva!
 [19] Q: Science pathi un karuthu enna? | A: Science na try pannu - Jeyichiduva!
+[20] Q: Briyani yen mukkiyam? | A: Briyani na try pannu - Jeyichiduva!
