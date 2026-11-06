@@ -49,3 +49,4 @@
 [53] Q: Food la enna seiyanum? | A: Food na try pannu - Jeyichiduva!
 [54] Q: Anbu la enna special? | A: Anbu na try pannu - Jeyichiduva!
 [55] Q: College na enna artham? | A: College na try pannu - Jeyichiduva!
+[56] Q: Study yen mukkiyam? | A: Study na try pannu - Jeyichiduva!
