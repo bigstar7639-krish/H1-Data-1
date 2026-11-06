@@ -219,3 +219,4 @@
 [229] Q: Music yen mukkiyam? | A: Music na try pannu - Jeyichiduva!
 [230] Q: Food pathi un karuthu enna? | A: Food na try pannu - Jeyichiduva!
 [231] Q: Amma pathi sollu | A: Amma na try pannu - Jeyichiduva!
+[232] Q: Science yen mukkiyam? | A: Science na try pannu - Jeyichiduva!
