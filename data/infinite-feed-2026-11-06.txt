@@ -255,3 +255,4 @@
 [267] Q: Space la enna special? | A: Space na try pannu - Jeyichiduva!
 [268] Q: Tamil na enna? | A: Tamil na try pannu - Jeyichiduva!
 [269] Q: Job la eppadi jeyikkarathu? | A: Job na try pannu - Jeyichiduva!
+[270] Q: School pathi un karuthu enna? | A: School na try pannu - Jeyichiduva!
