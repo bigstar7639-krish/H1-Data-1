@@ -48,3 +48,4 @@
 [61] Thiramai - Auto Cycle
 [62] Nambikkai - Auto Cycle
 [63] Vazhkkai - Auto Cycle
+[65] Tamil - Auto Cycle
