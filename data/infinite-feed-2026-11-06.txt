@@ -148,3 +148,4 @@
 [154] Q: Tech la eppadi jeyikkarathu? | A: Tech na try pannu - Jeyichiduva!
 [155] Q: Confidence la best tip enna? | A: Confidence na try pannu - Jeyichiduva!
 [156] Q: Tamil la enna special? | A: Tamil na try pannu - Jeyichiduva!
+[157] Q: Padippu pathi un karuthu enna? | A: Padippu na try pannu - Jeyichiduva!
