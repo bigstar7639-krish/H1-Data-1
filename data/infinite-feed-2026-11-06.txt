@@ -193,3 +193,4 @@
 [200] Q: Lonely na enna? | A: Lonely na try pannu - Jeyichiduva!
 [201] Q: Lonely la mistake enna? | A: Lonely na try pannu - Jeyichiduva!
 [202] Q: Kavalai yen mukkiyam? | A: Kavalai na try pannu - Jeyichiduva!
+[203] Q: Tech pathi sollu | A: Tech na try pannu - Jeyichiduva!
