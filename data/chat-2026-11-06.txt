@@ -36,3 +36,4 @@
 [44] Padippu - Auto Cycle
 [45] History - Auto Cycle
 [46] Vazhkkai - Auto Cycle
+[50] Azhagu - Auto Cycle
