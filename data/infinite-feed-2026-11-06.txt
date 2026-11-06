@@ -17,3 +17,4 @@
 [19] Q: Science pathi un karuthu enna? | A: Science na try pannu - Jeyichiduva!
 [20] Q: Briyani yen mukkiyam? | A: Briyani na try pannu - Jeyichiduva!
 [21] Q: AI pathi sollu | A: AI na try pannu - Jeyichiduva!
+[23] Q: Baby pathi sollu | A: Baby na try pannu - Jeyichiduva!
