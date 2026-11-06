@@ -284,3 +284,4 @@
 [298] Q: Nature la eppadi jeyikkarathu? | A: Nature na try pannu - Jeyichiduva!
 [299] Q: Kavalai la best tip enna? | A: Kavalai na try pannu - Jeyichiduva!
 [300] Q: Exam la mistake enna? | A: Exam na try pannu - Jeyichiduva!
+[301] Q: School la eppadi jeyikkarathu? | A: School na try pannu - Jeyichiduva!
