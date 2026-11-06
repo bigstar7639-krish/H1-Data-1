@@ -266,3 +266,4 @@
 [279] Q: Food la best tip enna? | A: Food na try pannu - Jeyichiduva!
 [280] Q: Space pathi un karuthu enna? | A: Space na try pannu - Jeyichiduva!
 [281] Q: Briyani la best tip enna? | A: Briyani na try pannu - Jeyichiduva!
+[282] Q: Kavalai la best tip enna? | A: Kavalai na try pannu - Jeyichiduva!
