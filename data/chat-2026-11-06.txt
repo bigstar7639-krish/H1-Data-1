@@ -17,3 +17,4 @@
 [21] AI - Auto Cycle
 [22] Amma - Auto Cycle
 [23] History - Auto Cycle
+[24] College - Auto Cycle
