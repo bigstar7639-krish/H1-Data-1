@@ -133,3 +133,4 @@
 [138] Q: Phone la enna special? | A: Phone na try pannu - Jeyichiduva!
 [139] Q: Padippu pathi sollu | A: Padippu na try pannu - Jeyichiduva!
 [140] Q: Birthday la enna special? | A: Birthday na try pannu - Jeyichiduva!
+[141] Q: Exercise la best tip enna? | A: Exercise na try pannu - Jeyichiduva!
