@@ -224,3 +224,4 @@
 [234] Q: School na enna? | A: School na try pannu - Jeyichiduva!
 [235] Q: Confidence pathi sollu | A: Confidence na try pannu - Jeyichiduva!
 [236] Q: Lonely pathi sollu | A: Lonely na try pannu - Jeyichiduva!
+[237] Q: Nambikkai la eppadi jeyikkarathu? | A: Nambikkai na try pannu - Jeyichiduva!
