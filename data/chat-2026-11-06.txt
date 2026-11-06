@@ -1,1 +1,1 @@
-[2026-11-06 08:13:08] [AI-Q] AI Q: ChatGPT maari AI eppadi work aaguthu?
+[2026-11-06 08:13:15] [AI-A] Aira AI: AI la, neural network‑oda “transformer” model use panrom. Dhaan, internet‑la irukura million‑aana text data la train panni, next word‑a predict panrathu. Adhanala, neenga question kudutha, adha base panni answer generate aagum! 😊
