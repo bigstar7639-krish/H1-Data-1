@@ -75,3 +75,4 @@
 [80] Q: Anger la eppadi jeyikkarathu? | A: Anger na try pannu - Jeyichiduva!
 [81] Q: Love Failure pathi un karuthu enna? | A: Love Failure na try pannu - Jeyichiduva!
 [82] Q: YouTube na enna artham? | A: YouTube na try pannu - Jeyichiduva!
+[83] Q: Exercise pathi sollu | A: Exercise na try pannu - Jeyichiduva!
