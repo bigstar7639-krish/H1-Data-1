@@ -201,3 +201,4 @@
 [209] Q: Pet yen mukkiyam? | A: Pet na try pannu - Jeyichiduva!
 [210] Q: Azhagu yen mukkiyam? | A: Azhagu na try pannu - Jeyichiduva!
 [211] Q: Life yen mukkiyam? | A: Life na try pannu - Jeyichiduva!
+[212] Q: Bike na enna artham? | A: Bike na try pannu - Jeyichiduva!
